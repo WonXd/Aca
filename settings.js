@@ -33,9 +33,9 @@ global.footer = 'DarkAngle' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://youtube.com/channel/UCsgSYvuFWqzt8NSP_DUVicQ'
 global.ig = 'https://instagram.com/sampeanikupicek'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/H19PmauFMTGL6HwQtQRTjW'
 global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'rixzzkulbet@gmail.com'
 global.region = 'indonesia'
